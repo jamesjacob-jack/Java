@@ -5,7 +5,7 @@
 - Object
 - [program Alexa](https://www.codecademy.com/enrolled/courses/learn-alexa)
 
-- > [!NOTE]
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]
