@@ -1,6 +1,6 @@
 # Java programs
 **Conceptes**
-+Arrays
+*Arrays
 +for loop
-+Object
+-Object
 Java full Stack Developer course java programs(task programs)
